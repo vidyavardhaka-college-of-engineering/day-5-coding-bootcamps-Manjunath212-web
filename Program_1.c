@@ -16,7 +16,7 @@ int main()
     str[i]=='u')
     v++;
   }
-printf("%s contain %d vowels",str,v);
+printf("no of vowels = %d",v);
 	//Write your code here
 
 	return 0;
